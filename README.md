@@ -2,7 +2,7 @@
 
  <a href= "https://img.shields.io/badge/github-repo-blue?logo=github"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Badge"/></a>
  ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
- <a href= "https://img.shields.io/badge/CasADi-R"> <img src="https://img.shields.io/badge/CasADi-R" alt="CasADi Badge"/></a>
+ <a href= "https://img.shields.io/badge/CasADi-orange"> <img src="https://img.shields.io/badge/CasADi-orange" alt="CasADi Badge"/></a>
 
 📝 Description
 This project implements and compares four state estimation algorithms for localizing a 2D differential drive robot using range and bearing angle measurements to known landmarks. The goal is to evaluate the accuracy, robustness, and computational efficiency of each estimator in a noisy environment.
