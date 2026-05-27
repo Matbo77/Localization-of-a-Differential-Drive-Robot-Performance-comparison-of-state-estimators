@@ -33,7 +33,7 @@ Future improvements could include:
 <!-- Sliding mode observer -->
 ---
 
-## 📚 References
+<!-- ## 📚 References -->
 
 
 
