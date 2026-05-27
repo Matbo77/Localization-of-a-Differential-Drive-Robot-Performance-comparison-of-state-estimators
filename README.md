@@ -27,6 +27,7 @@ This project implements and compares four state estimation algorithms for locali
 Contributions are welcome!
 
 Future improvements could include:
+- More detailled Readme
 - Monte Carlo simulation
 - Sliding mode observer
 
