@@ -30,9 +30,7 @@ Future improvements could include:
 - Compare computation time
 - More detailled Readme
 - Monte Carlo simulation
-- Sliding mode observer
-<--> test  <!->
-
+<!-- Sliding mode observer -->
 ---
 
 ## 📚 References
