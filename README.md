@@ -7,14 +7,19 @@
 📝 Description
 This project implements and compares four state estimation algorithms for localizing a 2D differential drive robot using range and bearing angle measurements to known landmarks. The goal is to evaluate the accuracy, robustness, and computational efficiency of each estimator in a noisy environment.
 
-Estimators Implemented:
-
-Extended Kalman Filter (EKF): Linearizes the nonlinear system.
-Unscented Kalman Filter (UKF): Uses sigma points for better nonlinear handling.
-Moving Horizon Estimation (MHE): Optimizes over a sliding window of past measurements.
-Particle Filter (PF): Uses weighted samples to approximate the posterior distribution.
+📌 Estimators Implemented:
+- Extended Kalman Filter (EKF): Linearizes the nonlinear system.
+- Unscented Kalman Filter (UKF): Uses sigma points for better nonlinear handling.
+- Moving Horizon Estimation (MHE): Optimizes over a sliding window of past measurements.
+- Particle Filter (PF): Uses weighted samples to approximate the posterior distribution.
 
 
 📈 Visualize Results
+<img alt="Illustration" src="pictures/traj_estimate_meas_UKF.jpg" width="100%" height="100%"> </img>
+<img alt="Illustration" src="pictures/traj_estimate_meas_UKF_zoom.jpg" width="100%" height="100%"> </img>
+<img alt="Illustration" src="pictures/estimate_UKF.jpg" width="100%" height="100%"> </img>
+<img alt="Illustration" src="pictures/traj_estimate_meas_MHE_zoom.jpg" width="100%" height="100%"> </img>
+
+
 
 
