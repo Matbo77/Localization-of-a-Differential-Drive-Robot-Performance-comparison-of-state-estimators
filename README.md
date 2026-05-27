@@ -15,10 +15,24 @@ This project implements and compares four state estimation algorithms for locali
 
 
 📈 Visualize Results
-<img alt="Illustration" src="pictures/traj_estimate_meas_UKF.jpg" width="100%" height="100%"> </img>
-<img alt="Illustration" src="pictures/traj_estimate_meas_UKF_zoom.jpg" width="100%" height="100%"> </img>
-<img alt="Illustration" src="pictures/estimate_UKF.jpg" width="100%" height="100%"> </img>
-<img alt="Illustration" src="pictures/traj_estimate_meas_MHE_zoom.jpg" width="100%" height="100%"> </img>
+<img alt="Traj" src="pictures/traj_estimate_meas_UKF.png" width="100%" height="100%"> </img>
+<img alt="Traj_zoom" src="pictures/traj_estimate_meas_UKF_zoom.png" width="100%" height="100%"> </img>
+<img alt="Estimate" src="pictures/estimate_UKF.png" width="100%" height="100%"> </img>
+<img alt="Traj_MHE" src="pictures/traj_estimate_meas_MHE_zoom.png" width="100%" height="100%"> </img>
+
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Future improvements could include:
+- Monte Carlo simulation
+- Sliding mode observer
+
+
+---
+
+## 📚 References
 
 
 
