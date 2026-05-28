@@ -5,7 +5,7 @@
  <a href= "https://img.shields.io/badge/CasADi-orange"> <img src="https://img.shields.io/badge/CasADi-orange" alt="CasADi Badge"/></a>
 
 ## 📝 Description
-This project implements and compares four state estimation algorithms for localizing a 2D differential drive robot using range and bearing angle measurements to known landmarks. The goal is to evaluate the accuracy, robustness, and computational efficiency of each estimator in a noisy environment.
+This project implements and compares four state estimation algorithms for localizing a 2D differential drive robot using range and bearing angle measurements to known landmarks/anchors. The goal is to evaluate the accuracy, robustness, and computational efficiency of each estimator in a noisy environment.
 
 ## 📌 Estimators Implemented:
 - Extended Kalman Filter (EKF): Linearizes the nonlinear system.
